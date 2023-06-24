@@ -1,0 +1,12 @@
+{
+    "name": "deep/roi-calculator",
+    "description": "ROI Calculator",
+    "authors": [
+        {
+            "name": "deeprahman",
+            "email": "dp.rahman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
